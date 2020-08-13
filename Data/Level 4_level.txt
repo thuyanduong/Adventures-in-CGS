@@ -1,0 +1,16 @@
+image:../Content/Textures/goal.png:4675:136:1
+
+enemy:JROTC:10:1:100
+enemy:JROTC:15:1:100
+enemy:JROTC:25:1:100
+enemy:JROTC:20:1:100
+enemy:JROTC:35:1:100
+enemy:JROTC:30:1:100
+enemy:JROTC:45:1:100
+enemy:JROTC:22:1:100
+enemy:JROTC:7:1:100
+enemy:JROTC:50:1:100
+enemy:JROTC:5:1:100
+
+goal:4675:136:end
+eof

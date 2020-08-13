@@ -1,0 +1,11 @@
+image:../Content/Textures/goal.png:5570:200:1
+
+
+enemy:Cheer:40:4:200
+enemy:Cheer:17:2:128
+enemy:Cheer:32:2:64
+enemy:Cheer:60:4:200
+enemy:Cheer:80:2:200
+
+goal:5570:200:Level 3
+eof

@@ -1,0 +1,12 @@
+image:../Content/Textures/goal.png:4611:200:1
+
+
+enemy:Redneck:40:4:200
+enemy:Redneck:20:5:100
+enemy:Redneck:30:2:300
+enemy:Redneck:60:2:300
+enemy:Redneck:6:4:128
+enemy:Redneck:8:3:200
+
+goal:4611:200:Level 2
+eof

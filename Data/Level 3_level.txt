@@ -1,0 +1,13 @@
+image:../Content/Textures/goal.png:4800:80:1
+
+
+enemy:Emo:5:2:128
+enemy:Emo:14:5:300
+enemy:Emo:30:2:150
+enemy:Emo:40:4:256
+enemy:Emo:56:2:300
+enemy:Emo:70:2:128
+
+
+goal:4800:80:Level 4
+eof
