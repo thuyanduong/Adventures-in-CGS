@@ -5,10 +5,6 @@ It was written in JAVA and was created on a Windows machine.
 
 [Click here to view demo](https://www.youtube.com/watch?v=1WaiUR6_4Oc&feature=youtu.be)
 
-#### To Run
-
-Navigate to the src folder and run `java Program` from the terminal. Type in `Ann` or `Dalton` as the playable character.
-
 
 ## Some Much Needed Context
 
@@ -26,3 +22,30 @@ navigating through the woods using only a compass, or camping trips just for fun
 
 * There are four levels. Each level takes place at one of our past retreats, and each
 level features a new category of enemies -- other high school stereotype: jocks/cheerleaders, goth kids, country boys/gals, and JROTC kids.
+
+
+#### To Run the Program
+
+Navigate to the src folder and run `java Program` from the terminal. The list of playable charcters are:
+```
+Adriana
+Amanda
+Ann
+Bryn
+Caitlyn
+Casey
+Chris
+Dalton
+Danika
+Garret
+Jared
+Joe
+Kari
+Kelly
+Kemmey
+Kent
+Kevin
+Kyle
+Lauryn
+Mcconnell
+```
