@@ -3,7 +3,7 @@
 This is a project my friend and I built during our senior year of high school.
 It was written in JAVA and was created on a Windows machine.
 
-[demo](./Adventures_in_CGS.mp4)
+[Click here to view demo](https://www.youtube.com/watch?v=1WaiUR6_4Oc&feature=youtu.be)
 
 ## Some Much Needed Context
 
