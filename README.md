@@ -5,6 +5,13 @@ It was written in JAVA and was created on a Windows machine.
 
 [Click here to view demo](https://www.youtube.com/watch?v=1WaiUR6_4Oc&feature=youtu.be)
 
+#### To Run
+Navigate to the src folder and run `java Program` from the terminal The list of playable characters are:
+```
+Ann
+Dalton
+```
+
 ## Some Much Needed Context
 
 * My friend and I built this game as part of our High School honors program capstone project.
